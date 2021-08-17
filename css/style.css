@@ -1,0 +1,86 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-image: url("../img/hero_image.png");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.navbar{
+    background-color: transparent !important;
+}
+
+div.text{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+div.sub{
+    text-align: center;
+    color: white;
+}
+
+.button{
+    text-align: center; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+
+}
+
+button{
+    background-color:#bf5d0c;
+    border-radius: 15px;
+    color: white;
+    width: 10%;
+}
+
+#footer{
+
+    background-color: orangered;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
+
+.p1{
+    color: white;
+    font-size: 15px;
+}
+
+.p2{
+    color: white;
+    font-size: 15px;
+}
+
+.p3{
+    color: white;
+    font-size: 15px;
+}
+
+.ubicacion{
+    color: white;
+    font-size: 15px;
+}
+
+.contacto{
+    color: white;
+    font-size: 15px;
+}
+
+.items{
+    color: white;
+    display: flex;
+    
+}
+
+
+
+     
+
+
+
